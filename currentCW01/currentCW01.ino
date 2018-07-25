@@ -22,9 +22,9 @@
 	
 *************************************************************/
 
-#include <xCore.h>
-#include <xPB04.h>
-#include <xOD01.h>
+#include <xCore.h> //add core library @ https://github.com/xinabox/xCore
+#include <xPB04.h> //add sensor library @ https://github.com/xinabox/xPB04
+#include <xOD01.h> //add sensor library @ https://github.com/xinabox/xOD01
 
 const int DELAY_TIME = 1000;
 
