@@ -22,9 +22,9 @@
 	
 *************************************************************/
 
-#include <xCore.h>
-#include <xPB04.h>
-#include <xOD01.h>
+#include <xCore.h> //add core library @ https://github.com/xinabox/xCore
+#include <xPB04.h> //find library @ https://github.com/xinabox/xPB04
+#include <xOD01.h> //find library @ https://github.com/xinabox/xOD01
 
 #if defined(ESP8266)
 #define RED   RED
